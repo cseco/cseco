@@ -7,7 +7,7 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 ## Home
 [Products and services](#products-and-services) | [About us](#about-us) | [Contact us](#contact-us)
 
-<img src="https://raw.githubusercontent.com/cseco/cseco/dev/public/images/jayphen-simpson-2116.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/cseco/cseco/dev/public/images/background.svg" width="100%">
 
 ## Products and Services
 \# Item		Description		More	Site
