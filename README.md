@@ -8,15 +8,15 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 [Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers)
 
 ## Products and Services
-\# | Item     | Category    | Description                                                                                   | External
--- | -------- | ----------- | --------------------------------------------------------------------------------------------- | -----------
-1  | csynergy | Energy		| Enrol today to perform enery audits, reduce your energy consumption and save the environment  | site
-2  | csobot   | Robotics    |
-3  | gps      | Automation  |
-4  | gps      | Automation  |
-5  | familyfe | software    |
-6  | csymapp  | software    |
-7  | 
+\# | Item     | Category            | Description                                                                                               | External
+-- | ------------------------------ | ----------- | --------------------------------------------------------------------------------------------------------- | -----------
+1  | csynergy [Jump to](#csynergy)  | Energy		| Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment  | site
+2  | csobot   | Robotics            | An affordable robot to work on your farm, small and big, and your lawn                                    | 
+3  | gps(N    | Automation          | 
+4  | familyfe | software            | 
+5  | csymapp  | software            | 
+7  | Water    |                     | 
+8  | Home     |                     | 
 
 
 **[⬆ back home](#home)**
