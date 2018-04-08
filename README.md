@@ -8,6 +8,11 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 [Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers)
 
 ## Products and Services
+- Categories 
+  - [Energy](#energy)
+  - [Robotics and Automation](#robotics-and-automation)
+  - [software](#software)
+  - [IoT](#iot)
 
 ### Energy
 \# | Item                                                                       | Description                                                                                             
@@ -28,9 +33,9 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 1  | [familyfe](#familyfe) [➡](http://www.cseco.co.ke#familyfe)    | An affordable robot to work on your farm, small and big, and your lawns
 2  | [csymapp](#csymapp) [➡](http://www.cseco.co.ke#csymapp)    | An affordable robot to work on your farm, small and big, and your lawns
 
-
-7  | Water    |                         | 
-8  | Home (...Complete system with interface that connects to the TV...)
+### IoT
+1  | Water    |                         | 
+2  | Home (...Complete system with interface that connects to the TV...)
 
 **[⬆ back home](#home)**
 
