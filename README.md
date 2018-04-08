@@ -21,7 +21,7 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 \# | Item                                                                       | Description                                                                                             
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
 1  | [csobot](#csobot) [➡](http://www.cseco.co.ke#csobot)    | An affordable robot to work on your farm, small and big, and your lawns. Inspired by open source [farmbot](#https://farm.bot/). If you have money you may just get [farmbot](#https://farm.bot/)
-2  | [csyke](#csyke) [➡](http://www.cseco.co.ke#csyke)    | Psyche to the bike owner. If you **own** a bodaboda motorbike, csyke will help you manage. It will last longer and give you your rightful share of the money it brings in. The more motorbikes you own, the more useful this will be. 
+2  | [csyke](#csyke) [➡](http://www.cseco.co.ke#csyke)    | Psyche to the bike owner. If you **own** a bodaboda motorbike, csyke will help you manage it. It will last longer and give you your rightful share of the money it brings in. The more motorbikes you own, the more useful this will be. 
 3  | [cseb](#cseb) [➡](http://www.cseco.co.ke#cseb)    | A compressed earth block machine with an improved cycle to increase productivity. Fill the mould, compress the block and eject all in one operation.
 
 **[⬆ Products and services](#products-and-services)** | **[⬆ back home](#home)**
@@ -38,7 +38,8 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 \# | Item                                                                       | Description                                                                                             
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
 1  | Water    |   What about what?
-2  | Home (...Complete system with interface that connects to the TV...)
+2  | Home | (...Complete system with interface that connects to the TV...)
+3  | Csensors | Whatever you'd like to monitor
 
 **[⬆ Products and services](#products-and-services)** | **[⬆ back home](#home)**
 
@@ -65,8 +66,7 @@ A knowledge of these will be of great help to you when applying:
   - Setting up and maintaining cloud servers
   - Setting up and maintaining mail servers
 - **Electronics design**
-  - Schematic and PCB design (kicad)
-- 
+  - Schematic and PCB design (kicad, etc) 
 - **Hardware design**
   - Solidworks
 - **Mathematical modelling**
