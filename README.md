@@ -12,7 +12,7 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 ### Energy
 \# | Item                                                                       | Description                                                                                             
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
-1  | csynergy [⬇ Jump to](#csynergy) [➡ External](www.cseco.co.ke#csynergy)    | Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment 
+1  | [⬇ Jcsynergy](#csynergy) [➡ External](www.cseco.co.ke#csynergy)    | Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment 
 2  | csobot   | Robotics                | An affordable robot to work on your farm, small and big, and your lawn                                    | 
 3  | gps(N    | Automation              | 
 4  | familyfe | software                | 
