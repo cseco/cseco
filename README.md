@@ -19,7 +19,7 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
 1  | [csynergy](#csynergy) [➡](http://www.cseco.co.ke#csynergy)    | Enrol today to collect your energy usage data, perform energy audits, reduce your energy consumption, your bills and save the environment 
 
-**[Products and services](#products-and-services)** **[⬆ back home](#home)**
+**[⬆ Products and services](#products-and-services)** | **[⬆ back home](#home)**
 
 ### Robotics and Automation
 \# | Item                                                                       | Description                                                                                             
@@ -28,7 +28,7 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 2  | [csyke](#csyke) [➡](http://www.cseco.co.ke#csyke)    | Psyche to the bike owner. If you **own** a bodaboda motorbike, csyke will help you manage. It will last longer and give you your rightful share of the money it brings in. The more motorbikes you own, the more useful this will be. 
 3  | [cseb](#cseb) [➡](http://www.cseco.co.ke#cseb)    | A compressed earth block machine with an improved cycle to increase productivity. Fill the mould, compress the block and eject all in one operation.
 
-**[Products and services](#products-and-services)** **[⬆ back home](#home)**
+**[⬆ Products and services](#products-and-services)** | **[⬆ back home](#home)**
 
 ### Software
 \# | Item                                                                       | Description                                                                                             
@@ -36,14 +36,15 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 1  | [familyfe](#familyfe) [➡](http://www.cseco.co.ke#familyfe)    | An affordable robot to work on your farm, small and big, and your lawns
 2  | [csymapp](#csymapp) [➡](http://www.cseco.co.ke#csymapp)    | An affordable robot to work on your farm, small and big, and your lawns
 
-**[Products and services](#products-and-services)** **[⬆ back home](#home)**
+**⬆ [Products and services](#products-and-services)** | **[⬆ back home](#home)**
 
 ### IoT
+\# | Item                                                                       | Description                                                                                             
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
-1  | Water    |                         | 
+1  | Water    |   What about what?
 2  | Home (...Complete system with interface that connects to the TV...)
 
-**[Products and services](#products-and-services)** **[⬆ back home](#home)**
+**[⬆ Products and services](#products-and-services)** | **[⬆ back home](#home)**
 
 ## About Us
  Mission
