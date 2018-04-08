@@ -8,9 +8,22 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 [Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers)
 
 ## Products and Services
-\# | Item     | Category                | Description                                                                                               | External
+
+### Energy
+\# | Item                                                                       | Description                                                                                               | External
+-- | -------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------- | -----------
+1  | csynergy [⬇ Jump to](#csynergy) [➡ External](#www.cseco.co.ke#csynergy)    | Energy		| Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment  | site
+2  | csobot   | Robotics                | An affordable robot to work on your farm, small and big, and your lawn                                    | 
+3  | gps(N    | Automation              | 
+4  | familyfe | software                | 
+5  | csymapp  | software                | 
+7  | Water    |                         | 
+8  | Home     |                         | 
+
+
+\# | Item                               | Category                | Description                                                                                               | External
 -- | ---------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------- | -----------
-1  | csynergy | [⬇ Jump to](#csynergy)  | Energy		| Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment  | site
+1  | csynergy [⬇ Jump to](#csynergy)    | Energy		| Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment  | site
 2  | csobot   | Robotics                | An affordable robot to work on your farm, small and big, and your lawn                                    | 
 3  | gps(N    | Automation              | 
 4  | familyfe | software                | 
