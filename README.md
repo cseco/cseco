@@ -19,7 +19,7 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
 1  | [csobot](#csobot) [➡](http://www.cseco.co.ke#csobot)    | An affordable robot to work on your farm, small and big, and your lawns. Inspired by open source [farmbot](#https://farm.bot/). If you have money you may just get [farmbot](#https://farm.bot/)
 2  | [csyke](#csyke) [➡](http://www.cseco.co.ke#csyke)    | Psyche to the bike owner. If you **own** a bodaboda motorbike, csyke will help you manage. It will last longer and give you your rightful share of the money it brings in. The more motorbikes you own, the more useful this will be. 
-3  | [cseb](#cseb) [➡](http://www.cseco.co.ke#cseb)    | A compressed earth block machine with an improved cycle to increase the productivity.
+3  | [cseb](#cseb) [➡](http://www.cseco.co.ke#cseb)    | A compressed earth block machine with an improved cycle to increase productivity. Fill the mould, compress the block and eject all in one operation.
 
 
 ### Software
