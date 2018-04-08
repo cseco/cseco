@@ -54,13 +54,13 @@ A knowledge of these will be of great help to you when applying:
   - bash scripting
 - **Networking**
   - Setting up and maintaining cloud servers
-  - Setting up and maitaining mail servers
+  - Setting up and maintaining mail servers
 - **Electronics design**
   - Schematic and PCB design (kicad)
 - **Hardware design**
   - Solidworks
 - **Mathematical modelling**
-  - Mathematic
+  - Mathematica
 - **Microcontrollers**
   - AVR
   - ARM CORTEX-M0 (PSOC)
