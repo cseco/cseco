@@ -11,13 +11,13 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 \# | Item     | Category    | Description
 -- | -------- | ----------- | -----------------------------------------
 \# | Item     | Category    | Description
-1  | csynergy | Energy		| Enrol today  
-2. | csobot   | Robotics    |
-3. | gps      | Automation  |
-4. | gps      | Automation  |
-5. | familyfe | software    |
-6. | csymapp  | software    |
-7. | 
+1  | csynergy | Energy		| Enrol today to perform enery audits and  
+2  | csobot   | Robotics    |
+3  | gps      | Automation  |
+4  | gps      | Automation  |
+5  | familyfe | software    |
+6  | csymapp  | software    |
+7  | 
 
 
 **[⬆ back home](#home)**
