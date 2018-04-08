@@ -8,7 +8,7 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 [Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers)
 
 ## Products and Services
-[Energy](#energy) | [Robotics and Automation](#robotics-and-automation) | [software](#software) | [IoT](#iot)
+[Energy](#energy) | [Robotics and Automation](#robotics-and-automation) | [Software](#software) | [IoT](#iot)
 
 ### Energy
 \# | Item                                                                       | Description                                                                                             
