@@ -12,40 +12,69 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 ### Energy
 \# | Item                                                                       | Description                                                                                             
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
-1  | [csynergy](#csynergy) [➡](http://www.cseco.co.ke#csynergy)    | Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment 
-2  | csobot   | Robotics                | An affordable robot to work on your farm, small and big, and your lawn                                    | 
-3  | gps(N    | Automation              | 
-4  | familyfe | software                | 
-5  | csymapp  | software                | 
+1  | [csynergy](#csynergy) [➡](http://www.cseco.co.ke#csynergy)    | Enrol today to collect your energy usage data, perform energy audits, reduce your energy consumption, your bills and save the environment 
+
+### Robotics and Automation
+\# | Item                                                                       | Description                                                                                             
+-- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
+1  | [csobot](#csobot) [➡](http://www.cseco.co.ke#csobot)    | An affordable robot to work on your farm, small and big, and your lawns
+2  | [csyke](#csyke) [➡](http://www.cseco.co.ke#csyke)    | An affordable robot to work on your farm, small and big, and your lawns
+3  | [cseb](#cseb) [➡](http://www.cseco.co.ke#cseb)    | A compressed earth block machine with a complete cycle***
+
+
+### Software
+\# | Item                                                                       | Description                                                                                             
+-- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
+1  | [familyfe](#familyfe) [➡](http://www.cseco.co.ke#familyfe)    | An affordable robot to work on your farm, small and big, and your lawns
+2  | [csymapp](#csymapp) [➡](http://www.cseco.co.ke#csymapp)    | An affordable robot to work on your farm, small and big, and your lawns
+
+
 7  | Water    |                         | 
-8  | Home     |                         | 
-
-
-\# | Item                               | Category                | Description                                                                                               | External
--- | ---------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------- | -----------
-1  | csynergy [⬇ Jump to](#csynergy)    | Energy		| Enrol today to perform enery audits, reduce your energy consumption, your bills and save the environment  | site
-2  | csobot   | Robotics                | An affordable robot to work on your farm, small and big, and your lawn                                    | 
-3  | gps(N    | Automation              | 
-4  | familyfe | software                | 
-5  | csymapp  | software                | 
-7  | Water    |                         | 
-8  | Home     |                         | 
-
+8  | Home (...Complete system with interface that connects to the TV...)
 
 **[⬆ back home](#home)**
-
 
 ## About Us
  - Email: team@cseco.co.ke
  - Telephone:
- - Website: 
+ - Website:
 
- **[⬆ back home](#home)**
+**[⬆ back home](#home)**
+
+## Careers
+Have you some youthful energy but they will not take you in because they need years of experience you don't have? We really need that energy here. If you really learnt something while at school, then [contact us](#contact-us). As opportunity allows, we will take you in so you can build some experience as you help us build mechatronic things.
+A knowledge of these will be of great help to you when applying:
+- Operating Systems
+ - Linux
+- Programming
+ - python
+ - javascript
+ - php
+ - c (for embedded systems)
+ - bash scripting
+- Networking
+ - Setting up and maintaining cloud servers
+ - Setting up and maitaining mail servers
+- Electronics design
+ - Schematic and PCB design (kicad)
+- Hardware design
+ - Solidworks
+- Mathematical modelling
+ - Mathematic
+- Microcontrollers
+ - AVR
+ - ARM CORTEX-M0 (PSOC)
+- Physical skills
+ - Soldering
+ - Welding
+
+
+**[⬆ back home](#home)**
 
 ## Contact Us
  - Email: team@cseco.co.ke
- - Telephone:
- - Website: 
+ - Telephone: +254-773824928 - Brian will pick your call
+ - Website: [cseco.co.ke](http://www.cseco.co.ke)
 
 **[⬆ back home](#home)**
 
