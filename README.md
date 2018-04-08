@@ -44,29 +44,29 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 ## Careers
 Have you some youthful energy but they will not take you in because they need years of experience you don't have? We really need that energy here. If you really learnt something while at school, then [contact us](#contact-us). As opportunity allows, we will take you in so you can build some experience as you help us build mechatronic things.
 A knowledge of these will be of great help to you when applying:
-- Operating Systems
+- **Operating Systems**
   - Linux
-- Programming
- - python
- - javascript
- - php
- - c (for embedded systems)
- - bash scripting
-- Networking
- - Setting up and maintaining cloud servers
- - Setting up and maitaining mail servers
-- Electronics design
- - Schematic and PCB design (kicad)
-- Hardware design
- - Solidworks
-- Mathematical modelling
- - Mathematic
-- Microcontrollers
- - AVR
- - ARM CORTEX-M0 (PSOC)
-- Physical skills
- - Soldering
- - Welding
+- **Programming**
+  - python
+  - javascript
+  - php
+  - c (for embedded systems)
+  - bash scripting
+- **Networking**
+  - Setting up and maintaining cloud servers
+  - Setting up and maitaining mail servers
+- **Electronics design**
+  - Schematic and PCB design (kicad)
+- **Hardware design**
+  - Solidworks
+- **Mathematical modelling**
+  - Mathematic
+- **Microcontrollers**
+  - AVR
+  - ARM CORTEX-M0 (PSOC)
+- **Physical skills**
+  - Soldering
+  - Welding
 
 
 **[⬆ back home](#home)**
