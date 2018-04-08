@@ -1,8 +1,13 @@
 ## <img src="https://github.com/cseco/cseco/blob/dev/public/images/csecologo.svg" width="15%">
 
-CSECO is a mechatronics engineering company. But what is mechatronics? - A synergistic combination of of mechanical engineering, electronics, computer engineering, telecommunications engineering, systems engineering and control engineering. And that is what we do. See our [products and services](#products-and-services). (The word itself was derived from **Mecha**nics + **elec**tronics)
+CSECO is a mechatronics engineering company. But wait, what is mechatronics? - A synergistic combination of mechanical engineering, electronics, computer engineering, telecommunications engineering, systems engineering and control engineering. (The word itself was derived from **Mecha**nics + **elec**tronics) And that is what we do. See our [products and services](#products-and-services). At CSECO we use the disciplines of mechatronics to build circuits that collect data from the physical world which we then use to control some parameter of the physical world. 
 
-CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd and it is an acronym for Circuits and Systems Engineering Company.
+CSECO (acronym for Circuits and Systems Engineering Company) is a registered trademark of Circuits and Systems Engineering Company Ltd.
+
+
+Add data science....
+	Sensors -> Computers --> Actuators
+
 
 ## Home
 [Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers)
@@ -35,15 +40,15 @@ CSECO is a registered trademark of Circuits and Systems Engineering Company Ltd 
 **[⬆ back home](#home)**
 
 ## About Us
- - Email: team@cseco.co.ke
- - Telephone:
- - Website:
+ Mission
+
+ Vision
 
 **[⬆ back home](#home)**
 
 ## Careers
 Have you some youthful energy but they will not take you in because they need years of experience you don't have? We really need that energy here. If you really learnt something while at school, then [contact us](#contact-us). As opportunity allows, we will take you in so you can build some experience as you help us build mechatronic things. Then you'll also go and start your own cseco and do likewise to others.
- 
+
 A knowledge of these will be of great help to you when applying:
 - **Operating Systems**
   - Linux
@@ -58,6 +63,7 @@ A knowledge of these will be of great help to you when applying:
   - Setting up and maintaining mail servers
 - **Electronics design**
   - Schematic and PCB design (kicad)
+- 
 - **Hardware design**
   - Solidworks
 - **Mathematical modelling**
@@ -68,7 +74,7 @@ A knowledge of these will be of great help to you when applying:
 - **Physical skills**
   - Soldering
   - Welding
-
+- **Data Science**
 
 **[⬆ back home](#home)**
 
