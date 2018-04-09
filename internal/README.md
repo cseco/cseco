@@ -7,9 +7,5 @@
 4  | Mail Server    | [1](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Working | - | - | June 1 2018 | - | spam issues
 5  | CSECO (TradeMark)    | [2](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Assign | 3 weeks | - | June 1 2018 | - | -
 
-Activity Person(Use some identifier) Status When Due
-
-Server
-Site
 
 
