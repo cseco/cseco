@@ -1,6 +1,6 @@
 ## <img src="https://github.com/cseco/cseco/blob/dev/public/images/csecologo.svg" width="15%">
 
-CSECO is a mechatronics engineering company. But wait, what is mechatronics? - A synergistic combination of mechanical engineering, electronics, computer engineering, telecommunications engineering, systems engineering and control engineering. (The word itself was derived from **Mecha**nics + **elec**tronics) And that is what we do. See our [products and services](#products-and-services). At CSECO we use the disciplines of mechatronics to build circuits that collect data from the physical world which we then use to control some parameter of some system of the physical world. 
+CSECO is a mechatronics engineering company. But wait, what is mechatronics? - A synergistic combination of mechanical engineering, electronics, computer engineering, telecommunications engineering, systems engineering and control engineering. (The word itself was derived from **Mecha**nics + **elec**tronics) And that is what we do. See our [products and services](#products-and-services). ***At CSECO we use the disciplines of mechatronics to build circuits that collect data from the physical world which we then use to control some parameter of some system of the physical world.*** 
 
 CSECO (acronym for Circuits and Systems Engineering Company) is a registered trademark of Circuits and Systems Engineering Company Ltd.
 
