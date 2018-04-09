@@ -12,6 +12,5 @@ Here you will find some documentation and tutorials on how to do some of the tas
 ## Todo
  - Website............4
  - TradeMark..........5
- - Navigations...........3 (Back to top, Back to other pages)
 
-**[⬅ cseco](#https://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |
+**[⬅ cseco](#http://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |
