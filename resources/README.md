@@ -13,4 +13,4 @@ Here you will find some documentation and tutorials on how to do some of the tas
  - Website............4
  - TradeMark..........5
 
-**[⬅ cseco](#http://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |
+**[⬅ cseco](http://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |

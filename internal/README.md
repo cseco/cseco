@@ -10,4 +10,4 @@
 5  | CSECO (TradeMark)    | [2](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Assign | 3 weeks | - | June 1 2018 | - | -
 6  | Tutorials    | [1](https://github.com/cseco/cseco/blob/dev/resources) | Working | - | - | April 12, 2018 | April 13, 2018 | Always working
 
-**[⬅ cseco](#http://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |
+**[⬅ cseco](http://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |

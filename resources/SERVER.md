@@ -58,4 +58,4 @@ Host | ttl    | points to
 gospelsounders.org.  | v=spf1 a mx include:mail.cseco.co.ke ~all  
 mail._domainkey.gospelsounders.org.  | DKIM 
 
-**[⬅ cseco](#http://github.com/cseco/cseco/tree/dev)** | **[⬅ resources](#http://github.com/cseco/cseco/tree/dev/resources)** | **[⬆ back home](#home)** |
+**[⬅ cseco](http://github.com/cseco/cseco/tree/dev)** | **[⬅ resources](http://github.com/cseco/cseco/tree/dev/resources)** | **[⬆ back home](#home)** |
