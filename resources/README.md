@@ -6,3 +6,8 @@ Here you will find some documentation and tutorials on how to do some of the tas
 2. [Setting up mail server](https://github.com/cseco/cseco/tree/dev/resources/MAILSERVER.md)
 3. [Setting up the website](https://github.com/cseco/cseco/tree/dev/resources/WEBSITE.md)
 4. [Getting a TRADEMARK](https://github.com/cseco/cseco/tree/dev/resources/TRADEMARK.md)
+
+
+## Todo
+ - Server##DNS
+ - MailServer##DNS

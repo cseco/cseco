@@ -89,45 +89,6 @@ A knowledge of these will be of great help to you when applying:
 
 **[⬆ back home](#home)**
 
-
-## Todo
- - Server
- - Mail
- - Site
- - Projects
- - Team
-
-## Todo
-- [x] Server
-	- [x] Apache
-	- [x] Nginx
-	- [ ] Nginx + Apache
-- [ ] Mail
-	- [ ] [Postmail](https://github.com/atech/postal/wiki/Prerequisites)
-		- [x] Domain: cseco.co.ke
-			- [x] spf
-			- [x] DKIM
-			- [x] Return Path
-			- [x] MX 
-		- [ ] Domain: postal.cseco.co.ke
-			- [x] spf
-			- [ ] DKIM
-			- [x] Return Path
-			- [x] MX
-	- [ ] Removing Spam
-	- [ ] Receiving (After setting up MX)
-	- [ ] Reverse DNS (How is this set up for single server sending for multiple domains)
-- [ ] Site
-- [ ] Projects
-- [ ] Team
-
-
-## Internal
- - Domains
- 	- cseco.co.ke
- - Mail servers
- - Servers
-
-
-## Notes
- - Remember to set MX record for [top level domain](https://github.com/atech/postal/issues/395)
+## Resources
+[Tutorials/Resources](https://github.com/cseco/cseco/tree/dev/resources)
+[Internal](https://github.com/cseco/cseco/tree/dev/internal)

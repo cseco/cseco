@@ -9,7 +9,7 @@ How you log into the server
 
 Buy a domain from [godaddy](https://www.godaddy.com/) or [sasahost](sasahost.co.ke) (for .ke domains)
 
-Change the nameservers for the domain you bought to [1984](https://www.1984hosting.com/). This will give us a central place to control our domains which be buy from different places, only going back there to renew them. Here are the 1984 nameservers:
+Change the nameservers for the domain you bought to [1984](https://www.1984hosting.com/). This will give us a central place to control our domains which be buy from different places, only going back there to renew them. Here are the [1984](https://www.1984hosting.com/) nameservers:
 - ns0.1984.is
 - ns1.1984hosting.com
 - ns1.1984.is
@@ -28,3 +28,7 @@ for reverse DNS, and
 ```sh
  dig  domain
 ```
+
+## DNS
+You will need to set up these records in the dns
+.........we are working to add these
