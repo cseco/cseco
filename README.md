@@ -5,7 +5,7 @@ CSECO is a mechatronics engineering company. But wait, what is mechatronics? - A
 CSECO (acronym for Circuits and Systems Engineering Company) is a registered trademark of Circuits and Systems Engineering Company Ltd.
 
 ## Home
-[Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers)
+[Home](#home) | [Products and services](#products-and-services) | [About](#about-us) | [Contacts](#contact-us) | [Careers](#careers) | [Resources](#resources)
 
 ## Products and Services
 [Energy](#energy) | [Robotics and Automation](#robotics-and-automation) | [Software](#software) | [IoT](#iot)
@@ -91,4 +91,5 @@ A knowledge of these will be of great help to you when applying:
 
 ## Resources
 [Tutorials/Resources](https://github.com/cseco/cseco/tree/dev/resources)
+
 [Internal](https://github.com/cseco/cseco/tree/dev/internal)
