@@ -1,10 +1,14 @@
 ## Setting up a Mail Server
 
+## Home
+
 Setting up and maitaining a mail server is not work for the faint hearted. But we will show you a tool that will automate almost all the tasks for you. [mail-in-a-box](https://mailinabox.email/)
 
 But mail in a box will not set itself up in Ubuntu 16.04 (our preferred OS for now). An easy solution is provided by [jirislav](https://github.com/mail-in-a-box/mailinabox/issues/758) [here](https://github.com/jirislav/mailinabox). Check on either of those locations how to set up mail-in-a-box in ubuntu 16.04 LTS.
 
 That is easy, but it is far from the end.
+
+**[⬅ cseco](#https://github.com/cseco/cseco/tree/dev)** | **[⬅ resources](#https://github.com/cseco/cseco/tree/dev/resources)** | **[⬆ back home](#home)** |
 
 ## SSL certificates
 (They got a new name)
@@ -31,7 +35,9 @@ How you log into the server
 	ssh root@ip-address-server
 ```
 
+**[⬅ cseco](#https://github.com/cseco/cseco/tree/dev)** | **[⬅ resources](#https://github.com/cseco/cseco/tree/dev/resources)** | **[⬆ back home](#home)** |
 
+# DKIM
 Now you are almost done, but you may still have a problem with the DKIM records that are created by mail-in-a-box. You may get an error like `DKIM record exists but its encording is no supported`. That means that you need to use a 1024 bits encoding rather than the 2048 bits encoding.
 
 Run these commands (Remember to change cseco.co.ke to your own domain and mail to your sub-domain if you are setting it up for a sub-domain).
@@ -43,14 +49,22 @@ sudo mkdir cseco.co.ke && cd cseco.co.ke
 sudo opendkim-genkey --bits=1024 -s mail -d cseco.co.ke
 ```
 
-Again you have to replace the old key (Always remember to change cseco.co.ke). The key you are replacing may also not be `/home/user-data/mail/dkim/mail.private`. You can check for solutions to any problems [here](DKIM https://discourse.mailinabox.email/t/dkim-signature-header-exists-but-is-not-valid/1968/5)
+Again you have to replace the old key (Always remember to change cseco.co.ke). The key you are replacing may also not be `/home/user-data/mail/dkim/mail.private`. You can check for solutions to any problems [here](https://discourse.mailinabox.email/t/dkim-signature-header-exists-but-is-not-valid/1968/5)
 
 ```sh
 cp /home/user-data/mail/dkim/mail.private /home/user-data/mail/dkim/mail.private.bac
 rm /home/user-data/mail/dkim/mail.private
 ln -s /etc/opendkim/keys/cseco.co.ke/mail.private /home/user-data/mail/dkim/mail.private
+
+systemctl restart opendkim
 ```
 
+
+`cat /etc/opendkim/keys/example.com/mail.txt` to get the DKIM key. You will not need everything in the file. See what part of it you need [here](https://discourse.mailinabox.email/t/dkim-signature-header-exists-but-is-not-valid/1968/5)
+
+**[⬅ cseco](#https://github.com/cseco/cseco/tree/dev)** | **[⬅ resources](#https://github.com/cseco/cseco/tree/dev/resources)** | **[⬆ back home](#home)** |
+
 ## DNS
-You will need to set up these records in the dns
-.........we are working to add these
+You will need to set up these records in the dns. See how to do that in [setting up server](See how to get DKIM from [Setting up Mail Server](https://github.com/cseco/cseco/blob/dev/resources/SERVER.md#dns)
+
+**[⬅ cseco](#https://github.com/cseco/cseco/tree/dev)** | **[⬅ resources](#https://github.com/cseco/cseco/tree/dev/resources)** | **[⬆ back home](#home)** |
