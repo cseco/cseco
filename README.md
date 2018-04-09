@@ -37,13 +37,14 @@ CSECO (acronym for Circuits and Systems Engineering Company) is a registered tra
 ### IoT
 \# | Item                                                                       | Description                                                                                             
 -- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------
-1  | Water    |   What about what?
-2  | Home | (...Complete system with interface that connects to the TV...)
-3  | Csensors | Whatever you'd like to monitor
+1  | [Csensors](#csensors) [➡](http://www.cseco.co.ke#csensors) | Easy to deploy, secure and reliable wireless sensors.
+2  | [Csyiot](#csyiot) [➡](http://www.cseco.co.ke#csyiot) | Monitor everything in and around your home. Get alerts on your phone, telly, radio or the device nearest to you.
+3  | [Csater](#csater) [➡](http://www.cseco.co.ke#csater)    |   Collect and use intelligently your water usage data in the most affordable way to save every drop of water you do not need to waste.
 
 **[⬆ Products and services](#products-and-services)** | **[⬆ back home](#home)**
 
 ## About Us
+Company Profile
  Mission
 
  Vision
