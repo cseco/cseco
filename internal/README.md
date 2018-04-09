@@ -1,8 +1,7 @@
 ### Internal
-\# | Activity   | Person | Status | How Long | Started | Due  | Notes                                                                                              
--- | ---------- | ------ | ------ | -------- | ------- | ---- | -------------------------------------------------------------
-1  | Server    | Enrol today to collect your energy usage data, perform energy audits, reduce your energy consumption, your bills and save the environment 
-
+\# | Activity   | Person | Status | How Long | Started | Due  | Next | Notes                                                                                              
+-- | ---------- | ------ | ------ | -------- | ------- | ---- | ---- | ------------------------------------------------------
+1  | Server    | [1](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Done | - | - | - | May 1 2018 | - 
 
 Activity Person(Use some identifier) Status When Due
 
