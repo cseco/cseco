@@ -1,6 +1,6 @@
 ### Calender
 
-Here the work in internal is broken per day
+Here the work in internal is broken into daily tasks
 
 ## Home
 T April 09-2018
