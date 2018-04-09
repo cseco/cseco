@@ -90,6 +90,6 @@ A knowledge of these will be of great help to you when applying:
 **[⬆ back home](#home)**
 
 ## Resources
-[Tutorials/Resources](https://github.com/cseco/cseco/tree/dev/resources)
+- [Tutorials/Resources](https://github.com/cseco/cseco/tree/dev/resources)
 
-[Internal](https://github.com/cseco/cseco/tree/dev/internal)
+- [Internal](https://github.com/cseco/cseco/tree/dev/internal)

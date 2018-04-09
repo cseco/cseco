@@ -8,6 +8,7 @@
 3  | cseco.co.ke (domain)   | [1](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Done | - | - | - | June 1 2018 | - 
 4  | Mail Server    | [1](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Working | - | - | June 1 2018 | - | spam issues
 5  | CSECO (TradeMark)    | [2](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Assign | 3 weeks | - | June 1 2018 | - | -
-6  | Tutorials    | [1](https://github.com/cseco/cseco/blob/dev/resources) | Working | - | - | April 12, 2018 | April 13, 2018 | Always working
+6  | Tutorials    | [1](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Working | - | - | April 12, 2018 | April 13, 2018 | Always working
+7  | Projects    | [1](https://github.com/cseco/cseco/blob/dev/internal/PEOPLE.md) | Working | - | - | - | - | -
 
 **[⬅ cseco](http://github.com/cseco/cseco/tree/dev)** | **[⬆ back home](#home)** |
